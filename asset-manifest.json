@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Monster-Reloadas/static/css/main.5fe864ad.chunk.css",
+    "main.js": "/Monster-Reloadas/static/js/main.3914760f.chunk.js",
+    "main.js.map": "/Monster-Reloadas/static/js/main.3914760f.chunk.js.map",
+    "runtime-main.js": "/Monster-Reloadas/static/js/runtime-main.2f9750ce.js",
+    "runtime-main.js.map": "/Monster-Reloadas/static/js/runtime-main.2f9750ce.js.map",
+    "static/js/2.05463ef1.chunk.js": "/Monster-Reloadas/static/js/2.05463ef1.chunk.js",
+    "static/js/2.05463ef1.chunk.js.map": "/Monster-Reloadas/static/js/2.05463ef1.chunk.js.map",
+    "index.html": "/Monster-Reloadas/index.html",
+    "precache-manifest.c8cbf98d4e82ff738edc6deee531aa51.js": "/Monster-Reloadas/precache-manifest.c8cbf98d4e82ff738edc6deee531aa51.js",
+    "service-worker.js": "/Monster-Reloadas/service-worker.js",
+    "static/css/main.5fe864ad.chunk.css.map": "/Monster-Reloadas/static/css/main.5fe864ad.chunk.css.map",
+    "static/js/2.05463ef1.chunk.js.LICENSE.txt": "/Monster-Reloadas/static/js/2.05463ef1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f9750ce.js",
+    "static/js/2.05463ef1.chunk.js",
+    "static/css/main.5fe864ad.chunk.css",
+    "static/js/main.3914760f.chunk.js"
+  ]
+}
